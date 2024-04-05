@@ -3,7 +3,7 @@
 
 using namespace std;
 
-vector<int> next_permutation(vector<int> A) {
+vector<int> next_permutation(vector<int> &A) {
 	int index = -1;
 	int n = A.size();
 	for (int idx = n - 2; idx >= 0; idx--)
