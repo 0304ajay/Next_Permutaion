@@ -1,5 +1,5 @@
 # Next_Permutaion
-Hello Every One this Repository Contains User Defined Header File to Find out the Next Permutation of a number(in the vector) in C++
+Hello Every One this Repository Contains User Defined Header File to Find out the Next Permutation of a number (in the vector) in C++
 # Steps of Installation
 - First Download the header file and Add it to your Header File section in your Local IDE like Visual Studio
 - Then Include the header (#include "next_Permutation.h")
